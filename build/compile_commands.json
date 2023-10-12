@@ -1,0 +1,7 @@
+[
+{
+  "directory": "/root/code/nnc/build",
+  "command": "/usr/bin/gcc  -I/root/code/nnc/Inc -g -o CMakeFiles/run.dir/Src/main.c.o -c /root/code/nnc/Src/main.c",
+  "file": "/root/code/nnc/Src/main.c"
+}
+]

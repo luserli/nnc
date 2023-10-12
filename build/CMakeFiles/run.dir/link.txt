@@ -1,0 +1,1 @@
+/usr/bin/gcc -g -rdynamic CMakeFiles/run.dir/Src/main.c.o -o run  -lm 
